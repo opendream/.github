@@ -1,5 +1,7 @@
 ## Hi there 👋 welcome to Opendream's GitHub Page!
 
+![A 16:9 horizontal 8-bit graphic depicting Asian men and women software engineers working for Opendream. The scene shows them coding for social impact, with elements that reflect their work such as digital code patterns, social media icons, and community engagement symbols, all within an 8-bit design aesthetic. The background is inspired by space exploration, suggesting innovation and reaching new frontiers, with pixelated stars and planets. The engineers are portrayed in a way that shows diversity and dedication, as they collaborate on projects that drive social change, rendered in vibrant 8-bit graphics.](/images/od-public.png.png)
+
 ## 🙋‍♀️ About Us
 [Opendream](https://www.opendream.co.th/) is dedicated to creating technology solutions for sustainable social development. Our mission is to innovate for the greater good, creating impactful projects across various domains such as education, healthcare, and more.
 
